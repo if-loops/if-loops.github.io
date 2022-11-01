@@ -3483,7 +3483,7 @@ figcaption {
 
 .image {
     position: static;
-    background-image: url("https://uploads-ssl.webflow.com/635fd89f2751f1751759fc87/635ff6c7588452fc515be77a_devin-kleu-y-wRO5cpeZ8-unsplash.jpeg");
+    background-image: url("./river.jpg");
     background-position: 50% 50%;
     background-size: auto;
     text-align: center;
@@ -3493,14 +3493,14 @@ figcaption {
 
 .pretty-divider {
     height: 300px;
-    background-image: url("https://uploads-ssl.webflow.com/635fd89f2751f1751759fc87/635ff6c7588452fc515be77a_devin-kleu-y-wRO5cpeZ8-unsplash.jpeg");
+    background-image: url("river.jpg");
     background-position: 50% 65%;
     background-size: cover;
 }
 
 .other-pretty-divider {
     height: 300px;
-    background-image: url("https://uploads-ssl.webflow.com/635fd89f2751f1751759fc87/636007249bdab124466c0f5e_audili.jpeg");
+    background-image: url("./audili.jpg");
     background-position: 50% 30%;
     background-size: cover;
 }
@@ -3693,7 +3693,7 @@ figcaption {
 }
 
 .image-2 {
-    background-image: url("https://uploads-ssl.webflow.com/635fd89f2751f1751759fc87/63600be2390038617ea9d0f7_Stefan.png");
+    background-image: url("./stefan.png");
     background-position: 50% 50%;
     background-size: auto;
 }
@@ -4872,7 +4872,7 @@ figcaption {
     }
 
     .other-pretty-divider {
-        background-image: url("https://uploads-ssl.webflow.com/635fd89f2751f1751759fc87/636007249bdab124466c0f5e_audili.jpeg");
+        background-image: url("./audili.jpg");
     }
 
     .nav-menu {
