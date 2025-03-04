@@ -22,7 +22,7 @@ repository               : "if-loops.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/stefan.jpeg"
+  avatar           : "stefan.jpeg"
   name             : "Stefan Schoepf"
   pronouns         : # example: "she/her"  
   bio              : "Final-year PhD student at Cambridge, SR at Google DeepMind"
