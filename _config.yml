@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Final-year PhD student at Cambridge, SR at Google DeepMind"
   location         : "Cambridge, UK"
-  employer         : "test" #"https://drive.google.com/file/d/1r6KXsq2TcihRs_zbkuoPRau0FgOO6uqU/view?usp=sharing"
+  employer         : "https://drive.google.com/file/d/1r6KXsq2TcihRs_zbkuoPRau0FgOO6uqU/view?usp=sharing"
   uri              : # URL
   email            : "ss2823@cam.ac.uk" 
 
