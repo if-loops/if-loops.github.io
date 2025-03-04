@@ -7,8 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year PhD candidate at the University of Cambridge focusing on machine unlearning and a bit of agentic LLMs on the side.
-Next to my studies, I am currently working part-time as a Student Researcher at Google DeepMind and have previoulsy interned at IBM Research in their AI Security & Privacy team working on automated LLM Red Teaming.
+I am a final-year PhD candidate at the University of Cambridge. I research "machine unlearning" to making machine learning models forget undesired data without having to retrain the whole model ($$$). This can used to remove privacy infringing, copyrighted, erroneous, poisoned, outdated or otherwise problematic data. I also work on some applications of agentic LLMs with [research](https://arxiv.org/abs/2409.15398) and [hackathons](https://www.linkedin.com/posts/schoepfstefan_ai-engine-uk-university-hackathon-2025-activity-7297312723980161024-ukfz?utm_source=share&utm_medium=member_desktop&rcm=ACoAABiL-0wBlMcKXxjEIZNd4waS-DXX4PRZJGQ).
+
+![unlearning](/images/unlearning.png)
+
+Next to my studies, I am working part-time as a Student Researcher at Google DeepMind and have previoulsy interned at IBM Research in their AI Security & Privacy team working on [automated LLM Red Teaming](https://www.linkedin.com/posts/schoepfstefan_happy-to-share-that-i-won-the-best-presentation-activity-7221423807180247040-zvoH?utm_source=share&utm_medium=member_desktop&rcm=ACoAABiL-0wBlMcKXxjEIZNd4waS-DXX4PRZJGQ).
 Prior to my PhD I worked at the Boston Consulting Group in Zurich and co-founded an ESA BIC-funded startup.
 
-Feel free to reach out for collaborations or career opportunities
+📧 Feel free to reach out for collaborations, [talks](https://www.linkedin.com/posts/schoepfstefan_i-had-the-incredible-opportunity-to-share-activity-7203370266830245889-6JrU?utm_source=share&utm_medium=member_desktop&rcm=ACoAABiL-0wBlMcKXxjEIZNd4waS-DXX4PRZJGQ), or career opportunities.

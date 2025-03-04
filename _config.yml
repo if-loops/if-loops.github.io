@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "[Under construction]"
+title                    : "Machine (Un)learning"
 title_separator          : "-"
 name                     : &name "Stefan Schoepf"
 description              : &description "Tagline"
