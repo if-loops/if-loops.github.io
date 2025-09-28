@@ -11,7 +11,5 @@ Hi, I am a final-year PhD candidate at the **University of Cambridge**. My resea
 
 ![unlearning](/images/unlearning.png)
 
-Next to my studies, I am working part-time as a Student Researcher at **Google DeepMind** and have previoulsy interned at **IBM Research** in their AI Security & Privacy team working on [automated LLM Red Teaming](https://www.linkedin.com/posts/schoepfstefan_happy-to-share-that-i-won-the-best-presentation-activity-7221423807180247040-zvoH?utm_source=share&utm_medium=member_desktop&rcm=ACoAABiL-0wBlMcKXxjEIZNd4waS-DXX4PRZJGQ).
+Next to my studies, I interned as a Student Researcher at **Google DeepMind** working on machine unlearning and at **IBM Research** in their AI Security & Privacy team, working on [automated LLM Red Teaming](https://www.linkedin.com/posts/schoepfstefan_happy-to-share-that-i-won-the-best-presentation-activity-7221423807180247040-zvoH?utm_source=share&utm_medium=member_desktop&rcm=ACoAABiL-0wBlMcKXxjEIZNd4waS-DXX4PRZJGQ).
 Prior to my PhD I worked at the **Boston Consulting Group (BCG)** in Zurich and co-founded an ESA BIC-funded startup.
-
-📧 Feel free to reach out for collaborations, [talks](https://www.linkedin.com/posts/schoepfstefan_i-had-the-incredible-opportunity-to-share-activity-7203370266830245889-6JrU?utm_source=share&utm_medium=member_desktop&rcm=ACoAABiL-0wBlMcKXxjEIZNd4waS-DXX4PRZJGQ), or career opportunities.
