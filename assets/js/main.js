@@ -17,4 +17,24 @@
       }
     });
   });
+
+  document.querySelectorAll('.tl-card[tabindex]').forEach(function(card){
+    var entry = card.closest('.tl-entry');
+    function toggle(){
+      var open = entry.classList.toggle('expanded');
+      card.setAttribute('aria-expanded', open ? 'true' : 'false');
+    }
+    card.setAttribute('aria-expanded', 'false');
+    card.addEventListener('click', function(e){
+      if (e.target.closest('a')) return;
+      toggle();
+    });
+    card.addEventListener('keydown', function(e){
+      if (e.target.closest('a')) return;
+      if (e.key === 'Enter' || e.key === ' '){
+        e.preventDefault();
+        toggle();
+      }
+    });
+  });
 })();

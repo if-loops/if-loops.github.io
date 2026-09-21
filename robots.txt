@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://if-loops.github.io/sitemap.xml
